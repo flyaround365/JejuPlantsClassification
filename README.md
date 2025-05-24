@@ -3,10 +3,16 @@
 ### Confusion Matrix
 ![덩개해안](https://github.com/flyaround365/JejuPlantsClassification/blob/213acfa6af7918cc59f69078df9cb441b1f729d1/resources/images/confusion%20matrix/1.%EB%8D%A9%EA%B0%9C%ED%95%B4%EC%95%88%20%EC%8B%9D%EB%AC%BC.png?raw=true)  
 0번 클래스인 갯강아지풀은 7개 이미지 모두 정확하게 분류되었다. 반면 4번 클래스인 갯까치수염은 6개 이미지 중 4개만 정확하게 분류되었고, 나머지 2개는 7번 클래스인 갯질경으로 오분류되었다.
-![4: 갯까지수염](https://esac.jejunu.ac.kr/data/preview/40bb4731-42ff-4212-9b26-b5d6ee0e7499/04da062d-8799-4589-8a5d-d5f394109350.png?size)  
-4번 클래스 갯까치 수염 (이미지 출처: https://esac.jejunu.ac.kr)
-![7: 갯질경](https://esac.jejunu.ac.kr/data/preview/7ffa1b70-86fc-4a87-b53f-cc7c3520a56a/b85bddca-ce76-4b44-9ed3-1caffb91e805.png?size)  
-7번 클래스 갯질경 (이미지 출처: https://esac.jejunu.ac.kr)
+4번 클래스 갯까치 수염 : https://esac.jejunu.ac.kr/data/40bb4731-42ff-4212-9b26-b5d6ee0e7499  
+7번 클래스 갯질경 : https://esac.jejunu.ac.kr/data/7ffa1b70-86fc-4a87-b53f-cc7c3520a56a
+
+[//]: # (![4: 갯까지수염]&#40;https://esac.jejunu.ac.kr/data/preview/40bb4731-42ff-4212-9b26-b5d6ee0e7499/04da062d-8799-4589-8a5d-d5f394109350.png?size&#41;  )
+
+[//]: # (4번 클래스 갯까치 수염 &#40;이미지 출처: https://esac.jejunu.ac.kr&#41;)
+
+[//]: # (![7: 갯질경]&#40;https://esac.jejunu.ac.kr/data/preview/7ffa1b70-86fc-4a87-b53f-cc7c3520a56a/b85bddca-ce76-4b44-9ed3-1caffb91e805.png?size&#41;  )
+
+[//]: # (7번 클래스 갯질경 &#40;이미지 출처: https://esac.jejunu.ac.kr&#41;)
 
 ### Class Name
 0: 갯강아지풀 (Setaria viridis var. pachystachys (Franch. & Sav.) Makino & Nemoto)  
@@ -138,11 +144,17 @@
 ## [ 제주도심 잡초 ] 
 ### Confusion Matrix
 ![제주도심 잡초](https://github.com/flyaround365/JejuPlantsClassification/blob/213acfa6af7918cc59f69078df9cb441b1f729d1/resources/images/confusion%20matrix/4.%EC%A0%9C%EC%A3%BC%EB%8F%84%EC%8B%AC%20%EC%9E%A1%EC%B4%88.png?raw=true)  
-클래스 37개 중 9개 클래스의 모든 이미지가 정확하게 분류되었다. 그러나 23번 클래스인 애기땅빈대의 5개 이미지는 모두 분류에 실패하였다. 이 중 4개는 6번 클래스인 금창초로, 나머지 1개는 2번 클래스인 개미자리로 오분류되었다.
-![23: 애기땅빈대](https://esac.jejunu.ac.kr/data/preview/6ea2b25e-448a-4485-863b-bd187a99770e/d6b7e5a0-aefa-4ff9-ad46-0ef4a8038c5c.png?size)  
-23번 애기땅빈대 (이미지 출처: https://esac.jejunu.ac.kr)
-![6: 금창초](https://esac.jejunu.ac.kr/data/preview/04ad71c3-415a-4cb2-bf7f-a942da3cac73/656879f7-1b84-4f73-a166-c6f929b837bd.png?size)   
-6번 클래스 금창초 (이미지 출처: https://esac.jejunu.ac.kr)
+클래스 37개 중 9개 클래스의 모든 이미지가 정확하게 분류되었다. 그러나 23번 클래스인 애기땅빈대의 5개 이미지는 모두 분류에 실패하였다. 이 중 4개는 6번 클래스인 금창초로, 나머지 1개는 2번 클래스인 개미자리로 오분류되었다.  
+23번 클래스 애기땅빈대 : https://esac.jejunu.ac.kr/data/6ea2b25e-448a-4485-863b-bd187a99770e  
+6번 클래스 금창초 : https://esac.jejunu.ac.kr/data/04ad71c3-415a-4cb2-bf7f-a942da3cac73
+
+[//]: # (![23: 애기땅빈대]&#40;https://esac.jejunu.ac.kr/data/preview/6ea2b25e-448a-4485-863b-bd187a99770e/d6b7e5a0-aefa-4ff9-ad46-0ef4a8038c5c.png?size&#41;  )
+
+[//]: # (23번 애기땅빈대 &#40;이미지 출처: https://esac.jejunu.ac.kr&#41;)
+
+[//]: # (![6: 금창초]&#40;https://esac.jejunu.ac.kr/data/preview/04ad71c3-415a-4cb2-bf7f-a942da3cac73/656879f7-1b84-4f73-a166-c6f929b837bd.png?size&#41;   )
+
+[//]: # (6번 클래스 금창초 &#40;이미지 출처: https://esac.jejunu.ac.kr&#41;)
 
 ### Class Name
 0: 강아지풀 (Setaria viridis (L.) P. Beauv.)  
