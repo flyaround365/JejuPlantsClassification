@@ -2,7 +2,7 @@
 ## [ 덩개해안 식물 ] 
 ### Confusion Matrix
 ![덩개해안](https://github.com/flyaround365/JejuPlantsClassification/blob/213acfa6af7918cc59f69078df9cb441b1f729d1/resources/images/confusion%20matrix/1.%EB%8D%A9%EA%B0%9C%ED%95%B4%EC%95%88%20%EC%8B%9D%EB%AC%BC.png?raw=true)  
-0번 클래스인 갯강아지풀은 7개 이미지 모두 정확하게 분류되었다. 반면 4번 클래스인 갯까치수염은 6개 이미지 중 4개만 정확하게 분류되었고, 나머지 2개는 7번 클래스인 갯질경으로 오분류되었다.
+0번 클래스인 갯강아지풀은 7개 이미지 모두 정확하게 분류되었다. 반면 4번 클래스인 갯까치수염은 6개 이미지 중 4개만 정확하게 분류되었고, 나머지 2개는 7번 클래스인 갯질경으로 오분류되었다.  
 4번 클래스 갯까치 수염 : https://esac.jejunu.ac.kr/data/40bb4731-42ff-4212-9b26-b5d6ee0e7499  
 7번 클래스 갯질경 : https://esac.jejunu.ac.kr/data/7ffa1b70-86fc-4a87-b53f-cc7c3520a56a
 
